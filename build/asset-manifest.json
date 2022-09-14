@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.7a9a3dd2.css",
+    "main.js": "/build/static/js/main.fdf307ab.js",
+    "static/js/27.c0ad2eb0.chunk.js": "/build/static/js/27.c0ad2eb0.chunk.js",
+    "static/media/explanation3.gif": "/build/static/media/explanation3.6584fa569dcc49e00466.gif",
+    "static/media/explanation4.gif": "/build/static/media/explanation4.bd81a652d6e7ba99af09.gif",
+    "static/media/explanation1.gif": "/build/static/media/explanation1.9add61e95a177f61e325.gif",
+    "static/media/howItWorks4.gif": "/build/static/media/howItWorks4.789158f0adb6ca64689e.gif",
+    "static/media/explanation2.gif": "/build/static/media/explanation2.5e09ed1ca4f10201967b.gif",
+    "static/media/howItWorks3.gif": "/build/static/media/howItWorks3.194f7d47dee4a0e012fb.gif",
+    "static/media/howItWorks1.gif": "/build/static/media/howItWorks1.3c08234bb13f3346ab81.gif",
+    "static/media/bayc1.png": "/build/static/media/bayc1.889361addb2d8bb0dde7.png",
+    "static/media/bayc3.png": "/build/static/media/bayc3.ded6fc524a94ff727ae4.png",
+    "static/media/bayc9.png": "/build/static/media/bayc9.62f6089341456068c7e6.png",
+    "static/media/howItWorks2.gif": "/build/static/media/howItWorks2.9ffd7d68dedfb22ecde4.gif",
+    "static/media/bayc4.png": "/build/static/media/bayc4.ebc02cd1bae3d342c10c.png",
+    "static/media/bayc6.png": "/build/static/media/bayc6.e7c07058d366d8ba9589.png",
+    "static/media/bayc2.jpeg": "/build/static/media/bayc2.16e9c70e4054658bb095.jpeg",
+    "static/media/bayc10.jpg": "/build/static/media/bayc10.cffd3e8af637131e8af1.jpg",
+    "static/media/bayc5.png": "/build/static/media/bayc5.42f95a245472a46d6428.png",
+    "static/media/bayc7.jpeg": "/build/static/media/bayc7.61e7eae3040922e1e8b0.jpeg",
+    "index.html": "/build/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.7a9a3dd2.css",
+    "static/js/main.fdf307ab.js"
+  ]
+}

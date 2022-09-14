@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Alpha Back",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A browser extension that pays you to admire NFTs",
   "icons": {
     "16": "images/get_started16.png",
@@ -10,6 +10,9 @@
     "128": "images/get_started128.png"
   },
   "chrome_url_overrides": {
-    "newtab": "main.html"
+    "newtab": "build/index.html"
+  },
+  "background": {
+    "service_worker": "background.js"
   }
 }
