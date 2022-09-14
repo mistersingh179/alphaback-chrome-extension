@@ -9,10 +9,10 @@ chrome.runtime.onInstalled.addListener(async (details) => {
     console.log('let us show them the works: ', url);
     let tab = await chrome.tabs.create({ url });
     console.log(`Created tab ${tab.id}`);
-    chrome.runtime.setUninstallURL("https://leaderboard.alphaback.xyz/uninstall");
+    chrome.runtime.setUninstallURL("https://leaderboard.alphaback.xyz/#/uninstall");
   } else if (details.reason === chrome.runtime.OnInstalledReason.UPDATE) {
     console.log("we have been updated from: ", details?.previousVersion)
-    chrome.runtime.setUninstallURL("https://leaderboard.alphaback.xyz/uninstall");
+    chrome.runtime.setUninstallURL("https://leaderboard.alphaback.xyz/#/uninstall");
     // When extension is updated
   } else if (details.reason === chrome.runtime.OnInstalledReason.CHROME_UPDATE) {
     // When browser is updated
